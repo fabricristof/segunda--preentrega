@@ -1,0 +1,141 @@
+.headerPrincipal {
+    background-color: #2C3639;
+    text-align: center;
+    justify-content: center;
+    font-family:'Nunito', sans-serif;
+    font-weight: lighter;
+}
+
+.headerPaginas {
+    background-color: #A27B5C;
+    height:auto;
+    padding: 10px;
+}    
+
+.navegadorPrincipal {
+    padding-top: 40px;
+}
+
+.navegadorPrincipal a {
+    color: aliceblue;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+
+
+a {
+    color:#2C3639;
+}
+
+
+
+.body {
+    background: linear-gradient(to bottom, #DCD7C9,#A27B5C );
+    font-family: 'Oswald', sans-serif;
+    padding: 0;
+}
+.tituloPrincipal {
+    font-size: 64px;
+    color: aliceblue;
+    font-weight: lighter;
+}
+
+.tituloPaginas {
+    
+    background-color: #2C3639;
+    color:aliceblue;
+    height: 100px;
+    
+  
+    
+
+}
+
+
+
+.contenedorFooter {
+    height: 200px;
+    background-color: #2C3639;
+    color:aliceblue;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    font-family:'Nunito', sans-serif;
+    font-size: 32px;
+}   
+
+.contenedorItems {
+    padding: 2px;
+}
+    
+
+
+.item {
+    height: 350px;
+    border: solid 1px;
+    box-sizing: border-box;
+    border-color: #2C3639;
+    margin: auto;
+}
+
+
+
+.contenedorFormulario {
+    background-color: #2C3639;
+    width: auto;
+    text-align: center;
+    border-radius: 4px;
+    align-items: center;
+    
+    border-radius: 8px;
+    border: 2px solid;
+
+}
+
+.boton {
+    width: 50%;
+    border-radius: 5px;
+    background: linear-gradient(90deg,#A27B5C,#DCD7C9);
+    font-family:'Nunito', sans-serif;
+    color:#2C3639;
+    font-weight: bolder;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+   
+}
+
+.boton:hover {
+    transform: translateY(-2px);
+    transition:  .5s;
+}
+
+.control {
+    width: 50%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background: linear-gradient(90deg,#A27B5C,#DCD7C9);
+    text-align: center;
+    color:#2C3639;
+    font-weight: bolder;
+    border-radius: 5px;
+
+}
+
+.control:focus {
+    width: 55%
+}
+
+
+.contenedorFormulario h3 {
+    text-align: center;
+    font-size: 32px;
+    color:aliceblue;
+    font-family:'Nunito', sans-serif ;
+    
+}
